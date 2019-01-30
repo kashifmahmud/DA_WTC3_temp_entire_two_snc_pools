@@ -1,0 +1,22 @@
+Leafmass models:
+----------------
+### Linear regression with D (all data log-transformed):
+### Linear regression with H (all data log-transformed):
+### Linear regression with DH (all data log-transformed):
+### Linear regression with D2H (all data log-transformed):### Comparison between both models:
+
+
+Woodmass models:
+----------------
+### Linear regression with H and D (all data log-transformed):
+### Linear regression with H (all data log-transformed):
+### Linear regression with DH (all data log-transformed):
+### Linear regression with D2H (all data log-transformed):### Comparison between both models:
+
+
+Rootmass models:
+----------------
+### Linear regression with H and D (all data log-transformed):
+### Linear regression with H (all data log-transformed):
+### Linear regression with DH (all data log-transformed):
+### Linear regression with D2H (all data log-transformed):### Comparison between both models:
